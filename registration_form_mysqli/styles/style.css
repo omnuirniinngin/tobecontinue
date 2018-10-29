@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+
+}
+.wrap{
+    border-style: solid;
+    border-color: #0008ff;
+    width: 450px;
+    padding: 40px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+    background-repeat: no-repeat;
+}
+h1, h3{
+    padding-left: 5px;
+}
+label{
+    padding-left: 20px;
+}
